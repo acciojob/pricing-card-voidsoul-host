@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+*{
+	padding:0px;
+	margin:0px;
+}
+.container{
+	padding:50px;
+	gap:8px;
+	width:300px;
+	height:350px;
+	display:flex;
+	flex-direction:column;
+/* 	justify-content:center; */
+	align-items:center;
+	background-color: aquamarine;
+	box-shadow:2px 2px 4px black;
+}
+img_{
+	width: 300px;
+	height: 300px;
+}
+img{
+	width: 250px;
+	height: 200px;
+}
+.text{
+	display:flex;
+	gap:8px;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	text-wrap: wrap;
+}
+#p{
+	text-wrap: wrap;
+}

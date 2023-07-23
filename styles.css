@@ -32,5 +32,17 @@ img{
 	text-wrap: wrap;
 }
 #p{
+	width:250px;
+	border:1px solid black;
 	text-wrap: wrap;
+	font-weight:600;
+}
+button{
+	border:none;
+	width:150px;
+	height:40px;
+	color:white;
+	background-color:orange;
+	border-radius:8px;
+	font-size:28px;
 }
